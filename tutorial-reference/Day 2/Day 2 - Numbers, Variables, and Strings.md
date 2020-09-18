@@ -40,11 +40,16 @@ SyntaxError: invalid syntax
 
 
 ### Strings
-_coming soon_
-
-
+print(hello world)
+Output:
+hello world
 
 
 
 ### Variables
-_coming soon_
+a=1  #here a & b are variables
+b=2
+c=a+b
+print(C)
+Output:
+3
